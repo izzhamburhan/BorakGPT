@@ -2,16 +2,12 @@
 
 BorakGPT is a simple Streamlit app that utilizes the LangChain library to provide conversational AI capabilities powered by GPT4All.
 
+<img width="560" alt="image" src="https://github.com/izzhamburhan/BorakGPT/assets/58935865/5972eff8-f533-428e-ada3-8859bec78c4c">
+
 ## Description
 
 This application allows users to interact with a GPT4All language model in a conversational manner. Users can ask questions or engage in discussions, and the app will generate responses based on the input.
 
-## Features
-
-- Interactive interface for conversing with the GPT-4 language model.
-- Utilizes the LangChain library for managing prompt templates and running the language model.
-- Provides step-by-step thinking responses for questions asked.
-- Customizable prompt templates for generating responses.
 
 ## Installation
 
